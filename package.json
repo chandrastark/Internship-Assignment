@@ -8,6 +8,8 @@
     "start": "next start",
     "export":"next export",
     "lint": "next lint"
+   
+
   },
   "dependencies": {
     "bootstrap": "^5.1.3",
