@@ -34,7 +34,7 @@ export default function Home() {
     <section className={styles.places} id="explore-places">
       <div className={styles.box}>
         <div className={`${styles.box} ${styles.box1}`}>
-            <div className={`${styles.zoom} ${styles.imgbox}`}><Image height={383} width={650} src="/images/tajmahal.jpg" alt=""/></div>
+            <div className={`${styles.zoom} ${styles.imgbox}`}><Image height={383} width={650} src="/Internship-Assignment/images/tajmahal.jpg" alt=""/></div>
             <div className={styles.textbox}>
                 <h2 className={styles.h2}>TAJ MAHAL , INDIA</h2>
                 <p className={styles.textgrey}>The Taj Mahal  (Crown of the Palace), is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.</p>
@@ -42,7 +42,7 @@ export default function Home() {
             </div>
         </div>
         <div className={`${styles.box} ${styles.box2}`}>
-            <div className={`${styles.zoom} ${styles.imgbox}`}><Image height={383} width={650} src="/images/eiffel tower.jpg" alt=""/></div>
+            <div className={`${styles.zoom} ${styles.imgbox}`}><Image height={383} width={650} src="/Internship-Assignment/images/eiffel tower.jpg" alt=""/></div>
             <div className={styles.textbox}>
                 <h2 className={styles.h2}>EIFFEL TOWER , PARIS</h2>
                 <p className={styles.textgrey}>The Eiffel Tower, La Tour Eiffel in French, was the main exhibit of the Paris Exposition or Worlds Fair of 1889. It was constructed to commemorate the centennial of the French Revolution and to demonstrate France industrial prowess to the world.The Eiffel company design won, and construction of the wrought-iron tower began in July 1887 </p>
