@@ -1,3 +1,9 @@
+This is the landing Page of a Travel Agency named Happy Travels.
+This project was made by using the framework Nextjs.
+Almost all the styling was given through CSS modules.
+Website Link : https://chandrastark.github.io/Internship-Assignment/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
