@@ -205,6 +205,17 @@
 
 
 /* ######## using media queries####### */
+@media (max-width:500px){
+    .aboutsec h2{
+        font-size: 0.8rem;
+        font-weight: 900;
+        margin-top: 1rem;
+        letter-spacing: 0.15rem;
+    }
+    .data p{
+        font-size: 1.6rem;
+    }
+}
 @media (max-width:580px){
     .container{
         font-size: 8px;
@@ -216,6 +227,8 @@
     text-align: center;
    }
 }
+
+
 @media (max-width:1140px){
     .list1 li,.list2 li{
         margin: 0.5rem 0;

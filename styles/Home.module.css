@@ -372,6 +372,17 @@
    }
 }
 
+@media (min-width:850px) and (max-width:1500px){
+    
+    .box1 .imgbox,.box2 .imgbox{
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: center;
+        background-color: rgb(236, 226, 236);
+    }
+}
+
 @media (max-width:1500px){
     .container{
         font-size: 8px;
